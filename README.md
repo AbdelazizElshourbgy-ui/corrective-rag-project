@@ -25,6 +25,8 @@ Built for the Kaggle competition **AgentEval Part I: Grounded RAG Benchmark**.
 
 ![Streamlit demo](assets/Overview.png)
 
+https://github.com/user-attachments/assets/eafc5fc8-6f81-4731-9047-3663b7bbf0ae
+
 
 ## 🧭 Pipeline at a glance
 
