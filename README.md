@@ -17,6 +17,7 @@ Built for the Kaggle competition **AgentEval Part I: Grounded RAG Benchmark**.
 
 - 📓 **Notebook on Kaggle:** [corrective-rag-system](https://www.kaggle.com/code/abdelazizelshourbgy/corrective-rag-system)
 - 🏁 **Competition data:** [AgentEval Part I: Grounded RAG Benchmark](https://www.kaggle.com/competitions/agent-eval-part-i-grounded-rag-benchmark/data)
+- 🚀 **Streamlit demo:** [corrective-rag-system](https://corrective-rag-project.streamlit.app/)
 
 ## 📸 Demo
 
