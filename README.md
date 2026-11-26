@@ -182,7 +182,7 @@ Python · scikit-learn · NumPy · pandas · Streamlit · Kaggle
 
 **Abdelaziz Elshourbgy**
 
-GitHub: [@AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui) · LinkedIn: [Abdelaziz Elshourbgy](https://www.linkedin.com/in/abdelaziz-elshourbgy-b126a83a2/)
+GitHub: [@AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui) · LinkedIn: [Abdelaziz Elshourbgy](https://www.linkedin.com/in/abdelaziz-elshourbgy-b126a83a2/) · Kaggle: [abdelazizelshourbgy](https://www.kaggle.com/abdelazizelshourbgy)
 
 ## 📄 License
 
